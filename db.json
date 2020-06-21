@@ -1,11 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
+  "id":{
+    "id":123
+  }
+  "product": {
     "name": "typicode"
   }
 }
